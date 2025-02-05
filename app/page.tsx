@@ -7,6 +7,7 @@ export default function Home() {
       <div>
         <h1 className="text-6xl font-ultralight mb-2">Lil Hill, LLC</h1>
         <p className="text-xl font-sans mb-4">Upper Ojai, California</p>
+        <p className="text-gray-500 text-sm text-center">PO BOX 5 <br/> OJAI, CA 93024</p>
       </div>
       <Link href="/legal/terms-of-service" passHref>
       Terms of Service
