@@ -8,8 +8,8 @@ export default function PrivacyPolicy() {
         <title>Privacy Policy - Lil Hill, LLC</title>
       </Head>
       <main className='prose mx-auto p-8'>
-      <Link href='/'>
-         ← Back to Home
+        <Link href='/'>
+          ← Back to Home
         </Link>
         <h1 className='my-8 text-4xl font-ultralight'>Privacy Policy</h1>
         <p>Last Updated: 1/30/2025<br /><br />
@@ -28,9 +28,9 @@ Derivative Data: Information our servers automatically collect when you access t
 
 Financial Data: Financial information, such as data related to your payment method (e.g., valid credit card number, card brand, expiration date) that we may collect when you purchase services within the App.
 
-Mobile Device Access: We may request access or permission to certain features from your mobile device, including your contacts, camera, and other features. If you wish to change our access or permissions, you may do so in your device’s settings.
+Mobile Device Access: We may request access or permission to certain features from your mobile device, including your contacts, camera, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 
-Push Notifications: We may request to send you push notifications regarding your account or the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings.
+Push Notifications: We may request to send you push notifications regarding your account or the App. If you wish to opt-out from receiving these types of communications, you may turn them off in your device's settings.
 
 3. Use of Your Information
 
@@ -70,7 +70,7 @@ We may update this Privacy Policy from time to time in order to reflect, for exa
 If you have questions or comments about this Privacy Policy, please contact us at:
 
 lilhill@lilhill.org
-</p>
+        </p>
       </main>
     </>
   );
