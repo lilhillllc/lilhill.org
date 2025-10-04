@@ -42,6 +42,9 @@ export default function Home() {
           <Link href="/nocap/privacy-policy">
             Privacy Policy
           </Link>
+          <Link href="/nocap/csae-compliance">
+            Child Safety Standards
+          </Link>
           <Link href="/nocap/delete-account">
             Delete Account
           </Link>
