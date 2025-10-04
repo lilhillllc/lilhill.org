@@ -4,8 +4,9 @@
   "/legal/privacy-policy/page": "app/legal/privacy-policy/page.js",
   "/legal/terms-of-service/page": "app/legal/terms-of-service/page.js",
   "/nocap/delete-account/page": "app/nocap/delete-account/page.js",
-  "/nocap/privacy-policy/page": "app/nocap/privacy-policy/page.js",
+  "/nocap/csae-compliance/page": "app/nocap/csae-compliance/page.js",
   "/nocap/delete-data/page": "app/nocap/delete-data/page.js",
+  "/nocap/privacy-policy/page": "app/nocap/privacy-policy/page.js",
   "/nocap/terms-of-service/page": "app/nocap/terms-of-service/page.js",
   "/page": "app/page.js"
 }
